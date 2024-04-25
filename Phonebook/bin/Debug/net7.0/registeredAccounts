@@ -1,0 +1,30 @@
+[
+  {
+    "username": "user1",
+    "password": "12345"
+  },
+  {
+    "username": "kitty",
+    "password": "meow"
+  },
+  {
+    "username": null,
+    "password": "123"
+  },
+  {
+    "username": "Pig",
+    "password": "UwU"
+  },
+  {
+    "username": "Futa",
+    "password": "frios"
+  },
+  {
+    "username": "test",
+    "password": "$2a$10$bN1aGVhxWu19cSi93Ph0cOV/6fzsFJ5Kp.0E58GerTIQim8zS9qnm"
+  },
+  {
+    "username": "blah",
+    "password": "$2a$10$eBp1iUp3VQI1vB7.Hv5nPukgJk6dFTM2yQPl/M98w1E.Z03MRItQC"
+  }
+]
